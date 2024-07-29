@@ -1,0 +1,26 @@
+.nav{
+    justify-content: space-between;
+}
+
+.h1:hover{
+    background-color: teal;
+    color: gold;
+}
+.h2:hover{
+    background-color: teal;
+    color: gold;
+}
+.h3:hover{
+    background-color: teal;
+    color: gold;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: gold;
+    padding: 10px;
+}
+body{
+    background-color: white;
+}
+
